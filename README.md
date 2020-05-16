@@ -34,8 +34,6 @@ Can be used like a regular set of headphones by putting the visor up. Then when 
 * Medical Training
 * Classroom Teaching Aid
 
-VR Headset – Patent Pending
-
 ## How is the Lightweight VR Headset Different from the average VR Headset?
 
 The components in the average VR Headset are congested and not evenly spaced out. Hence they are heavy and bulky.
