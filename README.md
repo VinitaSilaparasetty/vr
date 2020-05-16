@@ -20,13 +20,13 @@ Product Highlights:
 
 Can be used like a regular set of headphones by putting the visor up. Then when required, the visor can be pulled down over the eyes and it will function like a virtual reality headset.
 
-### Product Benefits:
+## Product Benefits:
 
 Lightweight
 Stylish
 Dual Purpose
 
-### Use Cases:
+## Use Cases:
 
 Gaming/Recreation
 Pilot Training
@@ -36,7 +36,7 @@ Classroom Teaching Aid
 
 VR Headset – Patent Pending
 
-### How is the Lightweight VR Headset Different from the average VR Headset?
+## How is the Lightweight VR Headset Different from the average VR Headset?
 
 The components in the average VR Headset are congested and not evenly spaced out. Hence they are heavy and bulky.
 
