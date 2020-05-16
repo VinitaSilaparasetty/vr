@@ -22,17 +22,17 @@ Can be used like a regular set of headphones by putting the visor up. Then when 
 
 ## Product Benefits:
 
-Lightweight
-Stylish
-Dual Purpose
+* Lightweight
+* Stylish
+* Dual Purpose
 
 ## Use Cases:
 
-Gaming/Recreation
-Pilot Training
-Military Training
-Medical Training
-Classroom Teaching Aid
+* Gaming/Recreation
+* Pilot Training
+* Military Training
+* Medical Training
+* Classroom Teaching Aid
 
 VR Headset – Patent Pending
 
