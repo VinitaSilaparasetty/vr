@@ -44,7 +44,7 @@ The components in the average VR Headset are congested and not evenly spaced out
 
 The lightweight VR headset aims to distribute the components of the average VR Headset, so that the weight of the components is distributed and does not put stress on a single region of the wearer’s head.
 
-
+![Alt text](https://raw.githubusercontent.com/VinitaSilaparasetty/vr/master/compact.png)
 
 My design takes on the form of a headset that would normally be used for listening to music, but with the advantage of a visor which can be worn over the eyes when in use or pushed back over the band of the headset, when not in use.
 
