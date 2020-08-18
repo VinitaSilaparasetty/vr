@@ -1,4 +1,4 @@
-![Alt text](https://github.com/VinitaSilaparasetty/vr/blob/master/vr%20headset.png?raw=true)
+<img src="https://github.com/VinitaSilaparasetty/vr/blob/master/vr%20headset.png?raw=true" width="200" height="200" />
 
 Applicant Name: Vinita Silaparasetty
 
@@ -30,7 +30,7 @@ Can be used like a regular set of headphones by putting the visor up. Then when 
 
 ## Use Cases:
 
-![Alt text](https://raw.githubusercontent.com/VinitaSilaparasetty/vr/master/future%20of%20vr.gif)
+<img src="https://raw.githubusercontent.com/VinitaSilaparasetty/vr/master/future%20of%20vr.gif" width="200" height="200" />
 
 * Gaming/Recreation
 * Pilot Training
