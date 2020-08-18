@@ -1,3 +1,5 @@
+![Alt text](https://github.com/VinitaSilaparasetty/vr/blob/master/vr%20headset.jpeg?raw=true)
+
 Applicant Name: Vinita Silaparasetty
 
 Patent ID: 307907
@@ -39,6 +41,8 @@ Can be used like a regular set of headphones by putting the visor up. Then when 
 The components in the average VR Headset are congested and not evenly spaced out. Hence they are heavy and bulky.
 
 The lightweight VR headset aims to distribute the components of the average VR Headset, so that the weight of the components is distributed and does not put stress on a single region of the wearer’s head.
+
+
 
 My design takes on the form of a headset that would normally be used for listening to music, but with the advantage of a visor which can be worn over the eyes when in use or pushed back over the band of the headset, when not in use.
 
