@@ -1,4 +1,4 @@
-<img src="https://github.com/VinitaSilaparasetty/vr/blob/master/vr%20headset.png?raw=true" width="600" height="500" />
+<img src="https://github.com/VinitaSilaparasetty/vr/blob/master/vr%20headset.png?raw=true" width="600" height="600" />
 
 Applicant Name: Vinita Silaparasetty
 
