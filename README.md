@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://github.com/VinitaSilaparasetty/vr/blob/master/vr%20headset.png?raw=true" width="600" height="600" />
+</p>
 
 Applicant Name: Vinita Silaparasetty
 
@@ -30,7 +32,9 @@ Can be used like a regular set of headphones by putting the visor up. Then when 
 
 ## Use Cases:
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/VinitaSilaparasetty/vr/master/future%20of%20vr.gif" width="500" height="500" />
+</p>
 
 * Gaming/Recreation
 * Pilot Training
