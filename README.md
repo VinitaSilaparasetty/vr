@@ -1,4 +1,4 @@
-![Alt text](https://github.com/VinitaSilaparasetty/vr/blob/master/vr%20headset.jpeg?raw=true)
+![Alt text](https://github.com/VinitaSilaparasetty/vr/blob/master/vr%20headset.png?raw=true)
 
 Applicant Name: Vinita Silaparasetty
 
@@ -29,6 +29,8 @@ Can be used like a regular set of headphones by putting the visor up. Then when 
 * Dual Purpose
 
 ## Use Cases:
+
+![Alt text](https://raw.githubusercontent.com/VinitaSilaparasetty/vr/master/future%20of%20vr.gif)
 
 * Gaming/Recreation
 * Pilot Training
