@@ -16,7 +16,7 @@ Category: Technology
 
 Sub-Category: Wearables
 
-Product Description:
+## Product Description:
 
 A headset with an additional, adjustable, visor which functions as the virtual reality component.
 
