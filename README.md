@@ -8,7 +8,7 @@ Patent ID: 307907
 
 Patent Type: Design Patent
 
-Patent Status: Patent Pending
+Patent Status: Granted
 
 Date of Application: 20-07-2018
 
