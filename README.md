@@ -55,3 +55,12 @@ My design takes on the form of a headset that would normally be used for listeni
 The Visor consists of a full length lens for a more immersive experience. The dial to adjust the display is present on the ends of the visor.
 
 The headset itself consists of the earphones and remaining circuitry necessary for the headset.
+
+### Financial information
+
+Open to all forms of partnerships including sale,licensing, royalties etc.
+
+This invention has not been previously sold or marketed.
+
+The global virtual reality headset market size was valued at USD 7.77 billion in 2022 and is expected to grow at a compound annual growth rate (CAGR) of 30.6% from 2023 to 2030.
+
