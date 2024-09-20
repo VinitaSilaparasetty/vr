@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/VinitaSilaparasetty/vr/blob/master/vr%20headset.png?raw=true" width="600" height="600" />
+<img src="https://github.com/VinitaSilaparasetty/vr/blob/master/VR%20Headset.jpg?raw=true" width="600" height="600" />
 </p>
 
 Applicant Name: Vinita Silaparasetty
